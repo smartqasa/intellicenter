@@ -1,4 +1,4 @@
-# Pentair Intellicenter for Home Assistant
+# Pentair Intellicenter for Home Assistant (SmartQasa)
 
 [![hacs][hacsbadge]][hacs]
 [![GitHub Release][releases-shield]][releases]
